@@ -51,13 +51,16 @@
   <div class="slides">
     <!-- Add your images here -->
     <div class="slide">
-      <img src="kangaroo1.jpg" alt="Kangaroo 1">
+      <img src="kangaroo1.jpg" alt="Kangaroo 1"> ![image](https://github.com/akmj3011/kfd/assets/128561949/d88a63a6-c36d-496d-b03a-5edbbc88ca56)
+
     </div>
     <div class="slide">
-      <img src="kangaroo2.jpg" alt="Kangaroo 2">
+      <img src="rabbit2.jpg" alt="rabbit"> ![image](https://github.com/akmj3011/kfd/assets/128561949/57000799-e2f2-4511-b64a-7e8cd9e6f238)
+
     </div>
     <div class="slide">
-      <img src="kangaroo3.jpg" alt="Kangaroo 3">
+      <img src="giraffe.jpg" alt="giraffe3"> ![image](https://github.com/akmj3011/kfd/assets/128561949/0eed8ce2-8a76-4457-8749-34459723ed4c)
+
     </div>
     <!-- Add more slides as needed -->
   </div>
