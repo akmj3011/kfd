@@ -3,13 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Image Slider</title>
+<title>Kangaroo Slider</title>
 <style>
   .slider-container {
     position: relative;
     width: 100%;
     max-width: 100%;
     overflow: hidden;
+    margin: 0 auto;
   }
   .slides {
     display: flex;
@@ -33,12 +34,14 @@
     border: none;
     outline: none;
     z-index: 1;
+    font-size: 20px;
+    color: #333;
   }
   .prev {
-    left: 0;
+    left: 10px;
   }
   .next {
-    right: 0;
+    right: 10px;
   }
 </style>
 </head>
@@ -48,13 +51,13 @@
   <div class="slides">
     <!-- Add your images here -->
     <div class="slide">
-      <img src="image1.jpg" alt="Image 1">
+      <img src="kangaroo1.jpg" alt="Kangaroo 1">
     </div>
     <div class="slide">
-      <img src="image2.jpg" alt="Image 2">
+      <img src="kangaroo2.jpg" alt="Kangaroo 2">
     </div>
     <div class="slide">
-      <img src="image3.jpg" alt="Image 3">
+      <img src="kangaroo3.jpg" alt="Kangaroo 3">
     </div>
     <!-- Add more slides as needed -->
   </div>
@@ -99,5 +102,3 @@
 
 </body>
 </html>
-
-![image](https://github.com/akmj3011/kfd/assets/128561949/69b1f8f0-9875-4e08-9dd6-a3cbd4cdc5e3)
